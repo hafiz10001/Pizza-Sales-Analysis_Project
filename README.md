@@ -14,3 +14,7 @@ the 2015 year ,By analyzing variuos of the sales data .
   - MYSQL 
   - Power Bi
   - DAX
+![Dashboard](https://github.com/user-attachments/assets/11291a7a-6c59-4c75-a363-c7fe607273ee)
+
+
+![Best Sellers](https://github.com/user-attachments/assets/84405001-65b5-4b94-83c6-2b86196fb9ad)
